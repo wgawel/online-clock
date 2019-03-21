@@ -1,3 +1,9 @@
+# Fork created to add following features:
+- **font change**
+- **sync time with online NTP server**
+- **better fullscreeen mode**
+- **save settings in url**
+- maybe **mattermost integration**
 
 # online-clock
 Online Clock is a web app that provides you with a live preview of the time, unlike most of the other online clocks this web app has an interactive User Interface that allows the user to change the background color, clock type, and font thickness for the user to make it as attractive to their eyes as possible. Currently working on more features.
